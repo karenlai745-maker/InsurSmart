@@ -1,0 +1,5 @@
+{
+  "name": "家庭保单智能分析专家",
+  "description": "基于 Gemini AI 的智能家庭保险保障分析工具，帮助您梳理家庭保障缺口，优化保费支出，提供专业的保险配置建议。",
+  "requestFramePermissions": []
+}
